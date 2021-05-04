@@ -9,7 +9,7 @@ Do you know [Bulma](https://bulma.io), a very nice alternative to Bootstrap as a
 ## Requirements
 
 - Fork this repo
-- Clone this repo
+- Clone this reponp
 
 You can find the starter code in the starter code folder of this GitHub repo.
 
